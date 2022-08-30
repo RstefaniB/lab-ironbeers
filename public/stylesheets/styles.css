@@ -5,3 +5,27 @@ dark-blue: #0a2c42;
 grey: #bfbfbf;
 font-family: Arial, Helvetica, sans-serif;
 */
+
+.card img {
+    width: 20%;
+}
+
+
+footer {
+    height: 4vh;
+    background-color: #0a2c42;
+    color: white;
+    padding: 10px;
+}
+
+.footer-text {
+    font-size: 10px;
+}
+
+.index-image {
+    width: 170%;
+}
+
+.random-image {
+    width: 30%;
+}
